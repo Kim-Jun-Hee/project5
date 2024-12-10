@@ -44,27 +44,39 @@
 ### 🏆 주요 결과물
 <table>
   <tr>
-    <td align="center">🌟 OTT왕 숏폼에 대한 설문조사 결과</td>
+    <td align="center">🌟 OTT와 숏폼에 대한 설문조사 - 사용시간</td>
+    <td align="center">🌟 OTT와 숏폼에 대한 설문조사 - 차이점</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="usetime.png" alt="상관관계" width="500">
+    </td>
+    <td>
+      <img src="diff.png" alt="다중 회귀분석" width="500">
+    </td>
+  </tr>
+  <tr>
     <td align="center">🌟 텍스트 감정 분석 모델 생성</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="text.png" alt="상관관계" width="500">
-    </td>
-    <td>
-      <img src="text.png" alt="다중 회귀분석" width="500">
-    </td>
-  </tr>
-  <tr>
     <td align="center">🌟 음성 감정 분석 모델 생성</td>
-    <td align="center">🌟 숏폼 제작 홈페이지 구현</td>
   </tr>
   <tr>
     <td>
-      <img src="sound.png" alt="명절" width="500">
+      <img src="text.png" alt="텍스트" width="500">
     </td>
     <td>
-      <img src="sound.png" alt="오배송" width="500">
+      <img src="sound.png" alt="음성" width="500">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🌟 숏폼 제작 홈페이지 구현 시작 화면</td>
+    <td align="center">🌟 숏폼 제작 홈페이지 구현 다음 화면</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="home1.png" alt="명절" width="500">
+    </td>
+    <td>
+      <img src="home2.png" alt="오배송" width="500">
     </td>
   </tr>
 </table>
