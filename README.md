@@ -40,6 +40,11 @@
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code Logo" width="100">
 </div>
 
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook Logo" width="100" style="display: block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" alt="Google Colab Logo" width="100">
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code Logo" width="100">
+</div>
 
 ### 🏆 주요 결과물
 <table>
