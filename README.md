@@ -36,7 +36,7 @@
   <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook Logo" width="45" style="display: block;">
   <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/>
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code Logo" width="45">
-  <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="5"/>
+  <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="2"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" alt="Google Colab Logo" width="85">
 </div>
 
