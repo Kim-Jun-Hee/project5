@@ -10,9 +10,9 @@
 <br></br>
 
 ### 📂 프로젝트 목표
-- 출산율 및 영유아 수와 유아용품 물류량과의 관계 분석
-- 명절 기간에 급증하는 택배 수요를 정량화하여 물류 관리 및 운영의 최적화를 도모
-- 오배송 발생 현황 분석 및 오배송 감소 방안 모색
+- OTT 시장과 숏폼 시장의 성장 추이 및 현재 대중의 인식 조사
+- 음성과 텍스트 데이터를 활용한 감정 분석 모델 제작
+- 감정 분석 결과를 기반으로 특정 감정에 맞는 영상 클립을 제공하는 홈페이지 제작
 <br></br>
 
 ### 📅 프로젝트 기간
@@ -21,8 +21,8 @@
 
 ### 프로젝트 인원 및 역할
 - 총인원: 2명
-- 개인 작업: 발표 준비
-- 공동 작업:
+- 개인 작업: 음성 데이터를 활용한 감정 분석 모델 제작,숏폼 제작 홈페이지 구현,발표 준비
+- 공동 작업: 데이터 전처리
 <br></br>
 
 ### 사용된 기술 및 도구
@@ -44,27 +44,27 @@
 ### 🏆 주요 결과물
 <table>
   <tr>
-    <td align="center">🌟 코로나 유무에 따른 유아용품 물류량의 상관관계</td>
-    <td align="center">🌟 영유아 수 및 혼인 건수 와 유아용품 물류량과의 다중 회귀분석</td>
+    <td align="center">🌟 OTT왕 숏폼에 대한 설문조사 결과</td>
+    <td align="center">🌟 텍스트 감정 분석 모델 생성</td>
   </tr>
   <tr>
     <td>
-      <img src="corr.png" alt="상관관계" width="500">
+      <img src="text.png" alt="상관관계" width="500">
     </td>
     <td>
-      <img src="return.png" alt="다중 회귀분석" width="500">
+      <img src="text.png" alt="다중 회귀분석" width="500">
     </td>
   </tr>
   <tr>
-    <td align="center">🌟 명절과 물류량의 관계</td>
-    <td align="center">🌟 오배송 발생 현황 파악</td>
+    <td align="center">🌟 음성 감정 분석 모델 생성</td>
+    <td align="center">🌟 숏폼 제작 홈페이지 구현</td>
   </tr>
   <tr>
     <td>
-      <img src="holiday.png" alt="명절" width="500">
+      <img src="sound.png" alt="명절" width="500">
     </td>
     <td>
-      <img src="error.png" alt="오배송" width="500">
+      <img src="sound.png" alt="오배송" width="500">
     </td>
   </tr>
 </table>
