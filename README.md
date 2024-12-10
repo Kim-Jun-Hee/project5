@@ -49,10 +49,10 @@
   </tr>
   <tr>
     <td>
-      <img src="usetime.png" alt="상관관계" width="500">
+      <img src="usetime.png" alt="사용시간" width="500">
     </td>
     <td>
-      <img src="diff.png" alt="다중 회귀분석" width="500">
+      <img src="diff.png" alt="차이점" width="500">
     </td>
   </tr>
   <tr>
@@ -73,10 +73,10 @@
   </tr>
   <tr>
     <td>
-      <img src="home1.png" alt="명절" width="500">
+      <img src="home1.png" alt="홈페이지" width="500">
     </td>
     <td>
-      <img src="home2.png" alt="오배송" width="500">
+      <img src="home2.png" alt="홈페이지" width="500">
     </td>
   </tr>
 </table>
