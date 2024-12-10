@@ -35,11 +35,10 @@
   <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/>
   <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook Logo" width="100" style="display: block;">
   <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab Logo" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab Logo" width="100">
   <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/>
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code Logo" width="100">
 </div>
-
 
 
 ### 🏆 주요 결과물
