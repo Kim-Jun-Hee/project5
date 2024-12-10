@@ -28,14 +28,16 @@
 ### 사용된 기술 및 도구
 
 #### 💻 주요 기술
-<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/><img src="python-logo.png" alt="SQL" width="40"/> **python**(TensorFlow,keras,sklearn,kobert_tokenizer,noisereduce)
+<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/><img src="python-logo.png" alt="SQL" width="40"/> **python**(TensorFlow,keras,sklearn,kobert_tokenizer..)
 
 #### 🛠️ 도구 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/>
-  <img src="oracle.png" alt="Oracle Logo" width="100" style="display: block;">
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook Logo" width="100" style="display: block;">
   <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/>
-  <img src="RStudio.png" alt="RStudio Logo" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab Logo" width="100">
+  <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/>
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code Logo" width="100">
 </div>
 
 
