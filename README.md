@@ -5,11 +5,11 @@
 [<img src="portfolio5.png" width="387px" alt="파이썬 딥러닝 포트폴리오">](파이썬딥러닝포트폴리오.pdf)</br>
   👉 [발표 자료 다운로드 - pdf](https://github.com/Kim-Jun-Hee/project5/blob/main/파이썬딥러닝포트폴리오.pdf)
 <br></br>
+[홈페이지 사용 영상 다운로드](https://github.com/Kim-Jun-Hee/project5/blob/main/movie1.mp4)
+[감정 추출 영상 예시 다운로드](https://github.com/Kim-Jun-Hee/project5/blob/main/movie2.mp4)
 📥 **다운로드 안내**  
-💡 **PDF**: 오른쪽 상단의 다운로드 버튼을 누르면 다운로드가 가능합니다.  
+💡 **PDF,mp4**: 오른쪽 상단의 다운로드 버튼을 누르면 다운로드가 가능합니다.  
 <br></br>
-
-[영상 보기](https://github.com/Kim-Jun-Hee/project5/blob/main/movie1.mp4)
 
 ### 📂 프로젝트 목표
 - OTT 시장과 숏폼 시장의 성장 추이 및 현재 대중의 인식 조사
