@@ -3,7 +3,8 @@
 ### 프로젝트 발표 자료
 - 프로젝트의 전체 내용은 아래 PDF 파일에서 확인할 수 있습니다.<br>
 [<img src="portfolio5.png" width="387px" alt="파이썬 딥러닝 포트폴리오">](파이썬딥러닝포트폴리오.pdf)</br>
-  👉 [발표 자료 다운로드 - pdf](https://github.com/Kim-Jun-Hee/project5/blob/main/파이썬딥러닝포트폴리오.pdf)  
+  👉 [발표 자료 다운로드 - pdf](https://github.com/Kim-Jun-Hee/project5/blob/main/파이썬딥러닝포트폴리오.pdf)
+  👉 [발표 자료 다운로드 - pptx](https://github.com/Kim-Jun-Hee/project5/blob/main/deep_project.pptx)  
 <br></br>
 📥 **다운로드 안내**  
 💡 **PDF**: 오른쪽 상단의 다운로드 버튼을 누르면 다운로드가 가능합니다.  
@@ -45,7 +46,7 @@
 <table>
   <tr>
     <td align="center">🌟 OTT와 숏폼에 대한 설문조사 - 사용시간</td>
-    <td align="center">🌟 OTT와 숏폼에 대한 설문조사 - 차이점</td>
+    <td align="center">🌟 OTT와 숏폼에 대한 설문조사 결과</td>
   </tr>
   <tr>
     <td>
@@ -68,8 +69,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center">🌟 숏폼 제작 홈페이지 구현 시작 화면</td>
-    <td align="center">🌟 숏폼 제작 홈페이지 구현 다음 화면</td>
+    <td align="center">🌟 숏폼 제작 홈페이지 구현 - 시작 화면</td>
+    <td align="center">🌟 숏폼 제작 홈페이지 구현 - 다음 화면</td>
   </tr>
   <tr>
     <td>
