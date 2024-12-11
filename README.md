@@ -9,16 +9,16 @@
 💡 **PDF**: 오른쪽 상단의 다운로드 버튼을 누르면 다운로드가 가능합니다.  
 <br></br>
 
-<video controls width="600">
-  <source src="https://raw.githubusercontent.com/Kim-Jun-Hee/project5/main/movie1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 ### 📂 프로젝트 목표
 - OTT 시장과 숏폼 시장의 성장 추이 및 현재 대중의 인식 조사
 - 음성과 텍스트 데이터를 활용한 감정 분석 모델 제작
 - 감정 분석 결과를 기반으로 특정 감정에 맞는 영상 클립을 제공하는 홈페이지 제작
 <br></br>
+
+<video controls width="600">
+  <source src="https://raw.githubusercontent.com/Kim-Jun-Hee/project5/main/movie1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### 📅 프로젝트 기간
 - 2024.10.28 ~ 2024.11.18
