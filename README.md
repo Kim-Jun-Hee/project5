@@ -5,9 +5,9 @@
 [<img src="portfolio5.png" width="387px" alt="파이썬 딥러닝 포트폴리오">](파이썬딥러닝포트폴리오.pdf)</br>
   👉 [발표 자료 다운로드 - pdf](https://github.com/Kim-Jun-Hee/project5/blob/main/파이썬딥러닝포트폴리오.pdf)
 <br></br>
-[<img src="movie1.png" width="200px" alt="홈페이지 사용 영상">](movie1.mp4)
+[<img src="movie1.png" width="250px" alt="홈페이지 사용 영상">](movie1.mp4)
 👉 [홈페이지 사용 영상 다운로드](https://github.com/Kim-Jun-Hee/project5/blob/main/movie1.mp4)<br></br>
-[<img src="movie2.png" width="200px" alt="감정 추출 영상 예시">](movie2.mp4)
+[<img src="movie2.png" width="250px" alt="감정 추출 영상 예시">](movie2.mp4)
 👉 [감정 추출 영상 예시 다운로드](https://github.com/Kim-Jun-Hee/project5/blob/main/movie2.mp4)<br></br>
 
 📥 **다운로드 안내**  
